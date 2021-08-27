@@ -1,0 +1,6 @@
+include <constrea>
+
+int main()
+{
+  cout<<"Hello world";
+} 
