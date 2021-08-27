@@ -4,3 +4,7 @@ int main()
 {
   cout<<"Hello world";
 } 
+
+cout << "Gerry Tonoto" << endl;
+count << "Alvin Hadinata " << endl;
+cout << "Diego Dimetheo" << endl;
